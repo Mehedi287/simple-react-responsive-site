@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Car service",
+        "id": 34523,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 756,
+        "img": "https://img.freepik.com/free-vector/detailed-car-wash-service-concept-illustration_23-2149038677.jpg?size=626&ext=jpg"
+    },
+    {
+        "name": "Motor service",
+        "id": 34434523,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 245,
+        "img": "https://image.freepik.com/free-photo/car-mechanic-holding-new-tires-by-white-van_1303-28498.jpg"
+    },
+    {
+        "name": "Tayer service",
+        "id": 34242523,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 74256,
+        "img": "https://image.freepik.com/free-vector/auto-service-illustration_1284-20618.jpg"
+    },
+    {
+        "name": "Engine service",
+        "id": 4244,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 14241,
+        "img": "https://image.freepik.com/free-vector/vintage-car-waiting-repair-maintenance-service_1150-43104.jpg"
+    },
+    {
+        "name": "Local service",
+        "id": 246301,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 7256,
+        "img": "https://image.freepik.com/free-vector/man-with-map-smartphone-renting-car-driver-using-car-sharing-app-phone-searching-vehicle-vector-illustration-transport-transportation-urban-traffic-location-app-concept_74855-10109.jpg"
+    },
+    {
+        "name": "Glass service",
+        "id": 312347523,
+        "derciption": "A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. ",
+        "price": 7564,
+        "img": "https://image.freepik.com/free-vector/asian-auto-rickshaw-baby-taxi-transport_1284-46603.jpg"
+    }
+]
