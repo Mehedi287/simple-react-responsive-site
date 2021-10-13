@@ -1,13 +1,14 @@
 
 import './App.css';
+import Home from './components/Home/Home';
 import Servicers from './components/services/Servicers';
 
 
 function App() {
   return (
     <div className="App">
-      <h1>hi ksodifjl</h1>
-      <Servicers></Servicers>
+
+      <Home></Home>
     </div>
   );
 }

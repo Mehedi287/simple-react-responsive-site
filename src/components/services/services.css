@@ -3,6 +3,7 @@
     grid-template-columns: repeat(3,1fr);
     grid-gap: 10px;
     display: flexbox;
+    margin-bottom: 30px;
 }
 @media only screen and (max-width:688px) {
     .services{
@@ -16,3 +17,10 @@
     }
     
 }
+.title{
+    font-family: 'Akronim', cursive;
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 55px;
+}
+ 
